@@ -1,0 +1,5 @@
+it contains the drawings and editing controle tools
+it shwos different things like brushes and stamps
+this is palette of available colors at screen"s bottom
+this is the largest part of the screen in the center of the Tuxt Paint window
+Taht's all
